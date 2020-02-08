@@ -1,5 +1,4 @@
 import sys,time,os,json,datetime,operator
-
 #SELECT * FROM cddata WHERE Date > 2019-01-01 and Date < 2019-01-02
 #append all json strings to new file called output.txt
 dateCount = {}
